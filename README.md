@@ -1,4 +1,4 @@
-# KaliTermux
+# KaliTermu
 ### Info
 Install Kali Linux on Android using Termux!
 
